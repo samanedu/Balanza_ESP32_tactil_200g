@@ -1,4 +1,4 @@
-Esta balanza es una balanza electrónica de precisión que trabaja con un microcontrolador ESP32, una celda de carga, como sensor, un módulo convertidor analógico digital HX711, elaborada bajo la práctica DIY (Do It Yourself) en español "Hazlo tú mismo".
+Esta es una balanza electrónica de precisión que trabaja con un microcontrolador ESP32, una celda de carga, como sensor, un módulo convertidor analógico digital HX711, elaborada bajo la práctica DIY (Do It Yourself) en español "Hazlo tú mismo".
 Posee una pantalla LCD táctil ILI9341 de 240x320 pixels, una bateria de litio 18650 y un módulo cargador TP4056.
 La balanza se calibra para una masa de 200 g, que es el peso máximo recomendado, sin embargo se utilizó una celda de carga rotulada para 300 g, considerando que peso de la tara no supere el 50% de la carga y la celda no sufra por la sobrecarga.
 El microprocesador y los módulos se fijaron a una PCB hechacon una fresadora CNC 3018 con la ayuda de los software KiCad, FlatCAM y bCNC.
