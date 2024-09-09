@@ -1,6 +1,6 @@
 /*
 Conexion del Hardware según archivo User_Setup.h 
-TFT ILI9488 480x320 with touch & SD card reader ---> ESP-WR00M32 (ESP32 DEVKIT V1-DOIT)
+TFT ILI9341 240x320 with touch & SD card reader ---> ESP-WR00M32 (ESP32 DEVKIT V1-DOIT)
 Seccionar Placa (ESP32 Wrover Module)
 (confirmar esta conexión en el archivo User_Setup.h de la biblioteca TFT_eSPI de Bodmer)
 Descomentar la siguente line en el archivo User_Setup.h
